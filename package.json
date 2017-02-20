@@ -1,0 +1,26 @@
+{
+  "name": "simplenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "exif-reader": "^1.0.2",
+    "express": "^4.14.1",
+    "fs": "0.0.1-security",
+    "node-exiftool": "^2.1.1",
+    "noodlejs": "^0.3.2",
+    "piexifjs": "^1.0.0",
+    "ramda": "^0.23.0",
+    "request": "^2.79.0",
+    "scrapyard": "^0.1.1",
+    "simple-exiftool": "^1.1.0",
+    "wsscraper": "0.0.1",
+    "xml2js": "^0.4.17"
+  }
+}
